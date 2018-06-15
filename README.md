@@ -1,13 +1,7 @@
 # Galaga
 
-remake of the popular arcade game
+python remake of the popular arcade game, [Galaga](https://en.wikipedia.org/wiki/Galaga)
 
 ### Prerequisites
 
-Ensure that you have Pygame installed 
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-made purely with python
+Built with the GameBox API, that uses pygame.
